@@ -7,7 +7,6 @@ This project implements eigenface recognition using Python, OpenCV, and scikit-l
 The project consists of several Python scripts:
 
 - `eigenface_recognition.py`: This is the main script that performs eigenface recognition on a dataset of face images.
-- `utils.py`: This script contains utility functions used by the main script.
 - `attface.zip`: This zip file contains a dataset of face images used for testing the eigenface recognition algorithm. Make sure to extract this file before running the main script.
 
 ## Getting Started
@@ -17,7 +16,6 @@ To get started with the project, follow these steps:
 1. Clone the repository to your local machine:
 
 git clone https://github.com/Eros483/Eigenface-Recognition.git
-
 
 2. Extract the `attface.zip` file containing the face image dataset.
 
@@ -39,7 +37,6 @@ python Eigenface_Recognition.py
 Install the dependencies using pip:
 
 pip install opencv-python numpy scikit-learn matplotlib
-
 
 ## Contributing
 
