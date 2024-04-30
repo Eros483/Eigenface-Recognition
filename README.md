@@ -15,13 +15,13 @@ To get started with the project, follow these steps:
 
 1. Clone the repository to your local machine:
 
-git clone https://github.com/Eros483/Eigenface-Recognition.git
+`git clone https://github.com/Eros483/Eigenface-Recognition.git`
 
 2. Extract the `attface.zip` file containing the face image dataset.
 
 3. Run the `eigenface_recognition.py` script:
 
-python Eigenface_Recognition.py
+`python Eigenface_Recognition.py`
 
 
 4. Follow the prompts to test the eigenface recognition algorithm on the provided dataset.
@@ -36,7 +36,7 @@ python Eigenface_Recognition.py
 
 Install the dependencies using pip:
 
-pip install opencv-python numpy scikit-learn matplotlib
+`pip install opencv-python numpy scikit-learn matplotlib`
 
 ## Contributing
 
