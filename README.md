@@ -17,9 +17,7 @@ To get started with the project, follow these steps:
 
 `git clone https://github.com/Eros483/Eigenface-Recognition.git`
 
-2. Extract the `attface.zip` file containing the face image dataset.
-
-3. Run the `eigenface_recognition.py` script:
+2. Run the `eigenface_recognition.py` script:
 
 `python Eigenface_Recognition.py`
 
